@@ -52,6 +52,7 @@ You Should see the version of python.
 4. If using dual monitors: Keep the book on one monitor in full-screen. & Use the second monitor for OBS controls.
 
 ### 4. Install Python Libraries
+1. copy and paste 'requiremetns.txt' into notebook and save as requirements.txt in Desktop\Booksnatcher
 1. Open CMD
 2. cd Desktop\BookSnatcher
 3. pip install -r requirements.txt
