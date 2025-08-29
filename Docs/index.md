@@ -29,7 +29,7 @@ BookSnatcher is a tool that automates capturing pages from online books in your 
 ## Setup Instructions
 
 ### 1. Prepare Your Files
-1. Drag and drop `booksnatcher.py` onto your Desktop.  
+1. Copy and paste the contents of `booksnatcher.py` into a notepad and save as "booksnatcher.py" onto your Desktop.  
 2. Create an empty folder on your Desktop called: "snatchedbooks"
 *(without quotation marks)*  
 
@@ -73,6 +73,7 @@ Move your mouse to select the bottom-right corner of the monitor mirroring on OB
 1. maximize the book on your larger better screen for best resolution.
 2. Adjust the scroll amount in the script if pages overlap or content is cut off.
 3. you MUST set the cursors to screenshot the window in the OBS screen.
+4. save the files where i tell you or it wont work
 
 
 
