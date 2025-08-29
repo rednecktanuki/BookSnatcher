@@ -49,7 +49,6 @@ You Should see the version of python.
 
 1. Download OBS Studio: https://obsproject.com/
 2. Install OBS. 
-3. OBS Studio  
 4. If using dual monitors: Keep the book on one monitor in full-screen. & Use the second monitor for OBS controls.
 
 ### 4. Install Python Libraries
@@ -61,10 +60,10 @@ You Should see the version of python.
 1. close and reopen CMD
 2. cd Desktop
 3. py booksnatcher.py
-4. Follow on-screen instructions and:
-5.Open OBs, set it to copy window and right click > fullscreen projection > choose monitor
+4. Follow on-screen instructions
+5.Open OBS, set it to copy window and right click > fullscreen projection > (choose your monitor)
 6.Move your mouse to select the top-left corner of the area to capture and
-Move your mouse to select the bottom-right corner of the monitor mirroring on OBs (to avoid black screens from protection)
+Move your mouse to select the bottom-right corner of the monitor mirroring on OBS (think of it as clicking and dragging a screenshot but you just point) (to avoid black screens from protection)
 7. the mouse MUST be on the screen of the real book so it can scroll down. have the online book set to: vertical scroll: OFF > Zoom: Fit to screen > Page layout: One page layout (for google book reader this is the sweet spot but it it needs to be a similar layout with non vertical and one page layout)
 8. Let the script scroll automatically and take screenshots after setting guide for screenshots.
 . When finished, press Ctrl + C to stop.
@@ -74,7 +73,6 @@ Move your mouse to select the bottom-right corner of the monitor mirroring on OB
 1. maximize the book on your larger better screen for best resolution.
 2. Adjust the scroll amount in the script if pages overlap or content is cut off.
 3. you MUST set the cursors to screenshot the window in the OBS screen.
-
 
 
 
